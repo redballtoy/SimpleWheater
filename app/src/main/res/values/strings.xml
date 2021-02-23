@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SimpleWheater</string>
+    <string name="temp_header_felt">Ощущается как:</string>
+    <string name="city_header">Москва</string>
+    <string name="header_weather_today">Погода на сегодня:\n </string>
+    <string name="hint_adouut_weather">Редкие облака \nи\n легкий дождь</string>
+    <string name="temp_header_today">Температура:</string>
+    <string name="temp_current_val">+20</string>
+    <string name="temp_felt_val">+15</string>
+    <string name="nothing_value">nothing</string>
+    <string name="clear_ru">Ясно</string>
+    <string name="partly_cloudy_ru">Малооблачно</string>
+    <string name="cloudy_ru">Облачно \nс\n прояснениями</string>
+    <string name="overcast_ru">Пасмурно</string>
+    <string name="drizzle_ru">Морось</string>
+    <string name="light_rain_ru">Небольшой \nдождь</string>
+    <string name="rain_ru">Дождь</string>
+    <string name="moderate_rain_ru">Умеренно \nсильный\n дождь</string>
+    <string name="heavy_rain_ru">Сильный дождь</string>
+    <string name="continuous_heavy_rain_ru">Длительный \nсильный\n дождь</string>
+    <string name="showers_ru">Ливень</string>
+    <string name="wet_snow_ru">Дождь \nсо\n снегом</string>
+    <string name="light_snow_ru">Небольшой снег</string>
+    <string name="snow_ru">Снег</string>
+    <string name="snow_showers_ru">Снегопад</string>
+    <string name="hail_ru">Град</string>
+    <string name="thunderstorm_ru">Гроза</string>
+    <string name="thunderstorm_with_rain_ru">Дождь \nс\n грозой</string>
+    <string name="thunderstorm_with_hail_ru">Гроза \nс\n градом</string>
+    <string name="pattern_date_format">dd.MM.yyyy hh:mm</string>
+    <string name="local_time_zone">GMT+3</string>
+
+
+
+
+    
+</resources>
